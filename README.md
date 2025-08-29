@@ -27,7 +27,7 @@ Users can share their live GPS location and view others on an interactive map.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/Live_location_Project.git
+git clone https://github.com/Sahil-Prasad27/Live_location_Project/tree/m
 cd Live_location_Project
 npm install
 npx nodemon app.js
